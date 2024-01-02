@@ -1,4 +1,3 @@
 requests_html
 pyodbc
-urllib.parse
 requests_cache
